@@ -11,3 +11,4 @@
 | Read:07.md|  [Read:07](https://ghofranaljabr.github.io/Code-201-Reading-Notes/Read:07) |
 | Read:08.md|  [Read:8](https://ghofranaljabr.github.io/Code-201-Reading-Notes/Read:08) |
 | Read:09.md|  [Read:9](https://ghofranaljabr.github.io/Code-201-Reading-Notes/Read:09) |
+| Read:10.md|  [Read:10](https://ghofranaljabr.github.io/Code-201-Reading-Notes/Read:10) |
